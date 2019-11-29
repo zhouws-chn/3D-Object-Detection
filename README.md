@@ -14,13 +14,13 @@ By now, there are still several problems to be solved, for example:
 This is just a raw version, welcome to share your ideas to improve it!
 
 Result on kitti:  
-![](C:\Users\zws\Desktop\3D-Object-Detection\output\000000.jpg)
+![](https://raw.githubusercontent.com/zhouws-chn/3D-Object-Detection/master/output/000000.jpg)
 
-![](C:\Users\zws\Desktop\3D-Object-Detection\output\000003.jpg)
+![](https://raw.githubusercontent.com/zhouws-chn/3D-Object-Detection/master/output/000003.jpg)
 
-![](C:\Users\zws\Desktop\3D-Object-Detection\output\000006.jpg)
+![](https://raw.githubusercontent.com/zhouws-chn/3D-Object-Detection/master/output/000006.jpg)
 
-![](C:\Users\zws\Desktop\3D-Object-Detection\output\000007.jpg)
+![](https://raw.githubusercontent.com/zhouws-chn/3D-Object-Detection/master/output/000007.jpg)
 
 ## Useage:
 
