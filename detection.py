@@ -11,11 +11,11 @@ os.environ["CUDA_VISIBLE_DEVICES"]="0"
 # Construct the network
 model = bbox_3D_net((224,224,3))
 
-model.load_weights(r'model_saved/weights.h5')
+model.load_weights(r'model/weights.h5')
 
-image_dir = 'F:/dataset/kitti/testing/image_2/'
-calib_file = 'F:/dataset/kitti/testing/calib.txt'
-box2d_dir = 'F:/dataset/kitti/testing/label_2/'
+image_dir = 'dataset/test/image_2/'
+calib_file = 'dataset/test/calib.txt'
+box2d_dir = 'dataset/test/label_2/'
 
 classes = ['Car','Van','Truck','Pedestrian','Person_sitting','Cyclist','Tram']
 cls_to_ind = {cls:i for i,cls in enumerate(classes)}

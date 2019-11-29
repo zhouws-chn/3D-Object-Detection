@@ -63,7 +63,7 @@ def compute_center(points3D,rot_M,cam_to_img,box_2D,inds):
     W = np.array([[fx, 0, u0 - box_2D[0]],
                   [fx, 0, u0 - box_2D[2]],
                   [0, fy, v0 - box_2D[1]],
-                  [0, fy, v0 - box_2D[3]]])
+                  [0, fy, v0 - box_2D[3]]], dtype='float')
     center =None
     error_min = 1e10
 
