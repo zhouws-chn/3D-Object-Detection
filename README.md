@@ -22,6 +22,8 @@ Result on kitti:
 
 ![](https://raw.githubusercontent.com/zhouws-chn/3D-Object-Detection/master/output/000007.jpg)
 
+![](https://raw.githubusercontent.com/zhouws-chn/3D-Object-Detection/master/output/000008.jpg)
+
 ## Useage:
 
 If you want to train, after fixing paths in the train.py, just run:
